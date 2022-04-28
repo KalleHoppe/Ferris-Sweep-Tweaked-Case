@@ -1,4 +1,4 @@
-# Ferris-Sweep-Tweaked-Case
+# Ferris Sweep Tweaked Case
 A thin case for the tweeked Ferris Sweep keyboard that Ben Vallack created. 
 The case has two M4 holes to enable tenting of the keyboard.
 Shout out to Ben for creating the tweeked version of the Sweep keyboard, and for draging me into the world of split keyboards.

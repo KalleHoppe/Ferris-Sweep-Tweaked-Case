@@ -10,3 +10,4 @@ Shout out to Ben for creating the tweeked version of the Sweep keyboard, and for
 
 - [Ben Vallack youtube video of the keyboard](https://www.youtube.com/watch?v=JqpBKuEVinw)
 - [Git hub repo for the PCB](https://github.com/benvallack/Ferris-Sweep-Tweaked)
+- [Original Sweep keyboard](https://github.com/davidphilipbarr/Sweep)
